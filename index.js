@@ -119,6 +119,7 @@ const scraperObject = {
       }
       return [itemArrayData, itemJSONData];
     });
+    console.log(dataItem[1])
     page.close();
     JSONDataList[dataItem[1]["title"]] = dataItem[1];
     totalData.push(...dataItem[0]);

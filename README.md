@@ -4,8 +4,11 @@ It was my work while intern in DoctorOncall, the project is to scrawl items, pri
 It was kinda hard as Lazada has multi-tier rate limiting, and I have to identify those rate limiting critirias.
 
 TECH STACK: PuppeteerJS
-How to RUN:
+
+![Lazada Scraper](asset/lazadascraper.gif)
+
+## How to RUN:
 ```
-npm install
+npm ci
 npm start
 ```
