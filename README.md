@@ -5,9 +5,9 @@ Encountered multi tier rate limiting and Javascript based UI
 
 TECH STACK: PuppeteerJS
 
-![Lazada Scraper](asset/lazadascraper.gif)
+![Lazada Scraper GIF](asset/lazadascraper.gif)
 
-## How to RUN:
+## How to Run:
 ```
 npm ci
 npm start
